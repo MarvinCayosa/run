@@ -4,6 +4,8 @@ window = Tk()
 window.title("Bill Calculator")
 window.geometry("400x570")
 
+ # HELLO GIT UBBBB WAZZAAAAPP
+
 
 def get_total():
     bill = float(txt_bill.get())
