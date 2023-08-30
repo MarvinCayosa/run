@@ -4,7 +4,7 @@ window = Tk()
 window.title("Bill Calculator")
 window.geometry("400x570")
 
- # HELLO GIT UBBBB WAZZAAAAPP
+ # HELLO GITHUBBBB WAZZAAAAPP
 
 
 def get_total():
